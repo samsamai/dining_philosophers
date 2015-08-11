@@ -1,0 +1,2 @@
+defmodule Dine do
+end
